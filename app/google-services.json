@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997582853420",
+    "project_id": "appsmoviles-danni3231",
+    "storage_bucket": "appsmoviles-danni3231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997582853420:android:45ea92f930d6a213f20889",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.claseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997582853420-jppjmja4usrmn6bp1eqeulfu0jii0isn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGCra_TeamcPLWqdwHF56pmKnSLYZRRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997582853420-jppjmja4usrmn6bp1eqeulfu0jii0isn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
